@@ -4,11 +4,11 @@ TodoApp is a simple task management application built using JavaScript. It allow
 
 ## Features
 
-- Add and delete tasks
+- Add tasks
 - Filter Functionality 
 - Delete Task Functionality
 
-## Made this ToDoApp for practicse
+## Made this ToDoApp for JS practicse
 
 ## Contributing
 
